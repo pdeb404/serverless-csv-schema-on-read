@@ -1,0 +1,1 @@
+# serverless-csv-schema-on-read
