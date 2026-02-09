@@ -19,6 +19,7 @@ schema-on-read analytics.
 - Fully event-driven and AWS Free Tier–friendly
 
 ## Architecture Overview
+![Architecture Diagram](architecture/architecture_diagram.png)
 The pipeline follows an event-driven serverless architecture:
 1. CSV files are uploaded to Amazon S3
 2. S3 events trigger an AWS Lambda function
