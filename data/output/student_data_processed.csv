@@ -1,0 +1,4 @@
+student_id,name,department,marks,grade
+101,Alice,CSE,85,A
+102,Bob,ECE,78,B
+103,,EEE,90,A
