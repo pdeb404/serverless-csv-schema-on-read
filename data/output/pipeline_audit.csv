@@ -1,0 +1,2 @@
+source_file,total_rows,valid_rows,invalid_rows,processed_at
+uploads/student_data_raw.csv,3,3,0,2026-02-10T12:00:00Z
