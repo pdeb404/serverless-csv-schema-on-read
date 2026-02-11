@@ -50,3 +50,18 @@ Detailed setup instructions are provided in the documentation folder.
 ## Notes
 This repository documents the implementation and design of the system. 
 Execution requires an AWS account to provision the required serverless resources.
+
+---
+
+## Project Status
+
+Version: 1.0  
+Status: Stable and ready for academic submission  
+
+This version includes:
+- Complete serverless architecture
+- Data processing and audit logic
+- SQL analytics queries
+- Full setup documentation
+- Live demo walkthrough guide
+
